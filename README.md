@@ -4,9 +4,22 @@ You can use the [editor on GitHub](https://github.com/MattiaRigi97/MattiaRigi97.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My three words: organization, curiosity and constance. Graduated Data Scientist loving Computer Vision and Machine Learning. Crypto enthusiast, scout leader, passionate to cyclism and world citizen. I'm trying to leave the world a little bit better that I've found it ("Robert Baden Powell").
+
+## Skills
+
+1. Prova
+2. Prova
+3. ciao
+
+## Education
+- 2019 / 2021: **Master Degree in Data Science**: University of Milano Bicocca, from the basics to data science world. Score: 110/110 with honors
+- 2021 / 2022: **Bachelor Degree in Statistics and Economics Sciences**: University of Milano Bicocca, discovered the basics of statistics, economics and computer science. Score: 106/110
+- 2011 / 2016: **Scientific High School opt. Applied Sciences**: I.T.C.S. Primo Levi Bollate, discovered passion for science and found my study method. Score: 87/100
+
+## Experience
 
 ```markdown
 Syntax highlighted code block
