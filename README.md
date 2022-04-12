@@ -24,9 +24,32 @@ My three words: organization, curiosity and constance. Graduated Data Scientist 
 - 2021 - 2021: **Imaging and Vision Laboratory Unimib, Software Developer**: Internship period where I worked on developing an application to automatically create video summaries.
 - 2015 - 2019: **Lifeguard and Swimming Instructor**: Worked for multiple company as lifeguard (indoor and outdoor pool) and swimming instructor for guys.
 
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+<div class="w3-container">
+
+<h2>Progress Bar Colors</h2>
+<p>Use any of the w3-color classes to change the color of the progress bar.</p>
+
 <div class="w3-light-grey">
   <div class="w3-green" style="height:24px;width:25%"></div>
 </div><br>
+
+<div class="w3-light-grey">
+  <div class="w3-red" style="height:24px;width:50%"></div>
+</div><br>
+
+<div class="w3-light-grey">
+  <div class="w3-blue" style="height:24px;width:75%"></div>
+</div>
+
+</div>
+</body>
+</html>
 
 
 ## Welcome to GitHub Pages
