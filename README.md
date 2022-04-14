@@ -1,87 +1,64 @@
+# Create your CV Site with Github
 
+This is the repo for my website Curriculum that use the free template created by Creative CV. 
 
-## About Me
-![image](https://user-images.githubusercontent.com/45123055/163050315-6d0f2adb-35eb-45a3-aeae-e3fca8a63cb7.png)
-My three words: organization, curiosity and constance. Graduated Data Scientist loving Computer Vision and Machine Learning. Crypto enthusiast, scout leader, passionate to cyclism and world citizen. I'm trying to leave the world a little bit better that I've found it ("Robert Baden Powell").
+The website is hosted by **GitHub** (https://pages.github.com/) and with the pre-designed pipeline is very easy to update your site because every commit trigger the pipeline and update your page.
 
-## Skills
+*Feel free to create your site taking this repo from example.*
 
-1. Prova
-2. Prova
-3. ciao
+## Directory **Structure**
+-------------------
+* **css**\: Stylesheets CSS files for the template.
+* **images**\: Images used in template.
+* **scripts**\: JavaScript used in the template.
+* **styles**\: SCSS source files for stylesheets CSS. Available in Purchased versions only.
+* **favicon.ico**: Favicon placeholder provided for the template.
+* **index.html**: Main HTML page to open the template in browser.
+* ***.html**: Additional HTML pages (if any).
+* **LICENSE.txt**: License file as per your downloaded variant.
 
-<div class="w3-border">
-  <div class="w3-grey" style="height:24px;width:20%"></div>
-</div>
+## **How to Edit** the template
+------------------------
 
-## Education
-- 2019 / 2021: **Master Degree in Data Science**: University of Milano Bicocca, from the basics to data science world. Score: 110/110 with honors
-- 2021 / 2022: **Bachelor Degree in Statistics and Economics Sciences**: University of Milano Bicocca, discovered the basics of statistics, economics and computer science. Score: 106/110
-- 2011 / 2016: **Scientific High School opt. Applied Sciences**: I.T.C.S. Primo Levi Bollate, discovered passion for science and found my study method. Score: 87/100
+1. **Editing Content** in template
 
-## Experience
-- 2020 - Ongoing: **Accenture AI, Data Science Analyst**: Working for a world company to bring data science to big clients.
-- 2021 - 2021: **Imaging and Vision Laboratory Unimib, Software Developer**: Internship period where I worked on developing an application to automatically create video summaries.
-- 2015 - 2019: **Lifeguard and Swimming Instructor**: Worked for multiple company as lifeguard (indoor and outdoor pool) and swimming instructor for guys.
+To edit the content open the corresponding *.html files and open them
+in an editor such as VSCode or Notepad++.
+Search for the content you want to change and edit it to the text you want.
+Save the file and reopen HTML file in browser to see the changes.
 
-<!DOCTYPE html>
-<html>
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body>
-<div class="w3-container">
+2. **Editing Styles** of template
 
-<h2>Progress Bar Colors</h2>
-<p>Use any of the w3-color classes to change the color of the progress bar.</p>
+The main style is present in css\main.css which you can edit.
+You must know how to edit CSS files to do this.
+If you have purchased any of the premium version then you will also get
+SCSS source files which generates all the styles of the template.
+You can use these SCSS files to make your changes and regenerate CSS.
 
-<div class="w3-light-grey">
-  <div class="w3-green" style="height:24px;width:25%"></div>
-</div><br>
+3. **Changing Images**
 
-<div class="w3-light-grey">
-  <div class="w3-red" style="height:24px;width:50%"></div>
-</div><br>
+You can change images inside the images\ folder.
+Make sure to name the file same as the original file.
+If you wish to change the name of the image file then you must
+also make corresponding change in the HTML file which refer to that image.
 
-<div class="w3-light-grey">
-  <div class="w3-blue" style="height:24px;width:75%"></div>
-</div>
+## **How to use** the template
+------------------------
+Upload the contents to your webserver.
+index.html must be in the main (root) folder of your webserver.
+Do not change the name of the template folders or files unless you know
+what you are doing and are changing the names in HTML files too.
+For webhosting, you can go with https://templateflip.com/go/hosting for easy FTP file uploads. 
 
-</div>
-</body>
-</html>
+## **Develop** in VSCode 
+------------------------
+For easily develop your website, I suggest to use VSCode with HTML5 plug-in that allow you to visualize the changes without commit every time.
 
+## Useful **Links**
+------------------------
+- **icons**: https://fontawesome.com/v4/icons/ 
+- **wallpapers**: https://unsplash.com/wallpapers
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MattiaRigi97/MattiaRigi97.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MattiaRigi97/MattiaRigi97.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Sample **Templates**
+------------------------
+![image](creative-cv.png)
